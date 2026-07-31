@@ -1,3 +1,3 @@
-# C-SuiteGPT Releases
+# LLypses Releases
 
 Release assets for C-SuiteGPT.
